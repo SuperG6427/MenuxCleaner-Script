@@ -17,8 +17,8 @@ MenuxCleaner es un script de terminal para Linux que permite liberar la memoria 
 Clona el repositorio y dale permisos de ejecución:
 
 ```bash
-git clone https://github.com/SL2705/MenuxCleaner.git
-cd MenuxCleaner
-chmod +x menuxcleaner.sh
-./menuxcleaner.sh
+git clone https://github.com/SuperG6427/MenuxCleaner-Script.git
+cd MenuxCleaner-Script
+chmod +x MenuxCleaner.sh
+./MenuxCleaner.sh
 
